@@ -99,7 +99,9 @@ Additionally, **SHAP analysis** provided interpretability by highlighting the mo
 
 This project is based on a **published research paper on predictive analysis of sustainable fashion consumption using machine learning techniques**.
 
+## Note 
 
+There are some lines of code removed due to reproducebility considerations so there might be some gaps in code. 
 
 ## Author
 
