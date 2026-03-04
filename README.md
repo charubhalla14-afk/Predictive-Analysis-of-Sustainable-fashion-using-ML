@@ -101,14 +101,6 @@ This project is based on a **published research paper on predictive analysis of 
 
 
 
-## Important Note
-
-Due to research publication and ongoing extension of this work, the **complete implementation code and full dataset are maintained in a private repository**.
-
-This public repository provides a **demonstration version of the project** for academic and portfolio purposes.
-
-
-
 ## Author
 
 **Charu Bhala**
